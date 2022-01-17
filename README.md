@@ -1,5 +1,5 @@
 # [buildAPKs.clocks](https://github.com/BuildAPKs/buildAPKs.clocks)
-Android APK clocks sources that build in [Termux](https://github.com/termux) in Amazon, Android and Chrome. 
+Android APK clocks sources that build in [Termux](https://github.com/termux) in Amazon, Android and Chrome.
 
 [This repository](https://github.com/BuildAPKs/buildAPKs.clocks/) is a submodule for [buildAPKs](https://github.com/BuildAPKs/buildAPKs).  In order to install it in its' proper place to attempt to make these applications on smartphone, tablet and TV, copy and paste the following into [Termux](https://github.com/termux):
 
