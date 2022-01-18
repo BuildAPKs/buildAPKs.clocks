@@ -29,5 +29,6 @@ _AT_ shakalaca/BeautyClockLiveWallpaper 8abb9d220c780f5a9d4434de716f71b36714720a
 _AT_ singpolyma/OrdClock b2a056993c3b1f67df2d19cfbf11e84a5e8b417a
 _AT_ sophiathekitty/arc-clock dfd9327b49941b76b41d296141e68f129f5501e8
 _AT_ tinkerlog/PongTime c81b6693b9150a220a01737dc5aa56af3395e6f1
+_AT_ vaishalok/AlarmManagerDemo 0d6d5ffa2cce1256fcd201c642d6d11300db6d42
 _AT_ vermasque/song-alarm 5191267f53eaddf4d41742f169b55da0d86cc36a
 # ma.bash OEF
